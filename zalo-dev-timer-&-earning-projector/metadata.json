@@ -1,0 +1,5 @@
+{
+  "name": "Zalo Dev Timer & Earning Projector",
+  "description": "An application with 6 countdown timers for Zalo app development tasks. It calculates potential earnings based on time spent and projects future wealth using compound interest.",
+  "requestFramePermissions": []
+}
